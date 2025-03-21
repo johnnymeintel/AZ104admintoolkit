@@ -25,14 +25,25 @@ Coding comments provided in part by AI (Claude 3.7 Sonnet via GitHub Copilot).
   
 - **[AZ104-RBAC-Auditor](https://github.com/johnnymeintel/AZ104admintoolkit/blob/main/scripts/AZ104-RBAC-Auditor.ps1)**  
   Inventories and analyzes role assignments across subscriptions for security posture assessment.
-- **AZ104-Remove-Custom-Roles** - Interactive workflow for managing and safely removing custom RBAC roles.
-- **AZ104-NSG-Analyzer** - Identifies and remediates security vulnerabilities in Network Security Groups.
+  
+- **[AZ104-Remove-Custom-Roles](https://github.com/johnnymeintel/AZ104admintoolkit/blob/main/scripts/AZ104-Remove-Custom-Roles.ps1)**  
+  Interactive workflow for managing and safely removing custom RBAC roles.
+  
+- **[AZ104-NSG-Analyzer](https://github.com/johnnymeintel/AZ104admintoolkit/blob/main/scripts/AZ104-NSG-Analyzer.ps1)**  
+  Identifies and remediates security vulnerabilities in Network Security Groups.
 
 ### Environment Setup & Testing
-- **AZ104-Launchpad** - Establishes a validated Azure administration environment for certification practice.
-- **AZ104-Simple-DR** - Creates a lightweight disaster recovery solution with documentation and test procedures.
-- **AZ104-Test-Users** - Creates test users and assigns custom RBAC roles for testing scenarios.
-- **AZ104-Remove-Test-Users** - Cleans up test user accounts when testing is complete.
+- **[AZ104-Launchpad](https://github.com/johnnymeintel/AZ104admintoolkit/blob/main/scripts/AZ104-Launchpad.ps1)**  
+  Establishes a validated Azure administration environment for certification practice.
+  
+- **[AZ104-Simple-DR](https://github.com/johnnymeintel/AZ104admintoolkit/blob/main/scripts/AZ104-Simple-DR.ps1)**  
+  Creates a lightweight disaster recovery solution with documentation and test procedures.
+  
+- **[AZ104-Test-Users](https://github.com/johnnymeintel/AZ104admintoolkit/blob/main/scripts/AZ104-Test-Users.ps1)**  
+  Creates test users and assigns custom RBAC roles for testing scenarios.
+  
+- **[AZ104-Remove-Test-Users](https://github.com/johnnymeintel/AZ104admintoolkit/blob/main/scripts/AZ104-Remove-Test-Users.ps1)**  
+  Cleans up test user accounts when testing is complete.
 
 ## Usage
 
