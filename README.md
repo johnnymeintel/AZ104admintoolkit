@@ -7,7 +7,7 @@ Coding comments provided in part by AI (Claude 3.7 Sonnet via GitHub Copilot).
 ## Script Library
 
 ### Resource Management
-- **AZ104-Cleanup** - Safely removes Azure resources and users from a subscription with exception handling, confirmation prompts, and detailed logging.
+**[AZ104-Cleanup](https://github.com/johnnymeintel/AZ104admintoolkit/blob/main/scripts/AZ104-Cleanup.ps1)** - Safely removes Azure resources and users from a subscription with exception handling, confirmation prompts, and detailed logging.
 - **AZ104-Resource-Checker** - Comprehensive inventory system for Azure environments with detailed reporting of subscriptions, resource groups, and resources.
 - **AZ104-Storage-Analyzer** - Evaluates storage account security by comparing baseline configurations and generating vulnerability reports.
 - **AZ104-VM-RightSizing-Tool** - Interactive tool for analyzing VM resource utilization and providing cost-optimized sizing recommendations.
