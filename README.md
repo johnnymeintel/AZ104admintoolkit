@@ -20,7 +20,8 @@ Coding comments provided in part by AI (Claude 3.7 Sonnet via GitHub Copilot).
   Interactive tool for analyzing VM resource utilization and providing cost-optimized sizing recommendations.
 
 ### Security & Access Control
-- **AZ104-Custom-RBAC-Roles** - Creates specialized role-based access control roles with granular permission sets.
+- **[AZ104-Custom-RBAC-Roles](https://github.com/johnnymeintel/AZ104admintoolkit/blob/main/scripts/AZ104-Custom-RBAC-Roles.ps1)**  
+  Creates specialized role-based access control roles with granular permission sets.
 - **AZ104-RBAC-Auditor** - Inventories and analyzes role assignments across subscriptions for security posture assessment.
 - **AZ104-Remove-Custom-Roles** - Interactive workflow for managing and safely removing custom RBAC roles.
 - **AZ104-NSG-Analyzer** - Identifies and remediates security vulnerabilities in Network Security Groups.
