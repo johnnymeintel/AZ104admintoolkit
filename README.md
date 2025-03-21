@@ -2,7 +2,7 @@
 
 A collection of PowerShell scripts documenting my journey from technical support to cloud engineering. These scripts are designed to help with Azure administration tasks and AZ-104 certification preparation.
 
-Coding comments provided in part by AI (Claude 3.7 Sonnet via GitHub Copilot) 
+Coding comments provided in part by AI (Claude 3.7 Sonnet via GitHub Copilot).
 
 ## Script Library
 
