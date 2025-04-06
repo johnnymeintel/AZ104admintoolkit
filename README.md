@@ -57,4 +57,4 @@ Each script is self-contained and includes detailed comments. Most scripts inclu
 
 ## Additional Resources
 
-For more information about these scripts and my cloud journey, visit [https://johnnymeintel.com](https://johnnymeintel.com)
+For more information about these scripts and my cloud journey, visit https://medium.com/@johnnymeintel
